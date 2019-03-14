@@ -38,4 +38,4 @@ MARKUP = ('md', 'ipynb')
 
 PLUGIN_PATH = './plugins'
 PLUGINS = ['ipynb.markup']
-THEME = '/home/charlie/environments/themepel/pelican-themes/elegant'
+#THEME = '/home/charlie/environments/themepel/pelican-themes/elegant'
